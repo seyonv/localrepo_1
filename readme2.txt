@@ -1,4 +1,4 @@
 readme2.txt
 
-This is a readme for idea1
+Modifying this line to get a conflict This is a readme for idea1
 Now adding this line to readme2.txt
